@@ -1,4 +1,6 @@
-# Noamross Nrtools
+# A Personal Homebrew Tap
+
+Things I wanted to track and install that aren't available elsewhere.
 
 ## How do I install these formulae?
 
